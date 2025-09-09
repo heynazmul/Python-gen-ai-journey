@@ -8,7 +8,7 @@ If device is off "Device is offline
 
 device_status = "active"
 
-temprature = 38
+temprature = 37
 
 if device_status == "active":
     if temprature >35:
